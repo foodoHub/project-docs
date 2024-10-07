@@ -19,3 +19,8 @@
 
 - **Topic:** Ongoing work on Deliverable 1.
 - **Summary:** Focus on areas that still need improvement or completion for Deliverable 1, sharing progress and challenges with the team.
+
+## 07.10.2024
+
+Topic: Finalising Deliverable 1.
+Summary: Final touches on Deliverable 1.
