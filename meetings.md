@@ -22,5 +22,5 @@
 
 ## 07.10.2024
 
-Topic: Finalising Deliverable 1.
-Summary: Final touches on Deliverable 1.
+- **Topic:** Finalising Deliverable 1.
+- **Summary:** Final touches on Deliverable 1.
