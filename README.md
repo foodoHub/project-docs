@@ -15,7 +15,7 @@ This repository contains essential project documents, templates, and deliverable
 Clone this repository to access all the templates and documents related to the project:
 
 ```bash
-git clone https://github.com/VirtualChef/project-docs.git
+git clone https://github.com/foodoHub/project-docs.git
 ```
 
 ## Contribution
