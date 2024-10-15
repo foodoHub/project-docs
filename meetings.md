@@ -24,3 +24,10 @@
 
 - **Topic:** Finalising Deliverable 1.
 - **Summary:** Final touches on Deliverable 1.
+
+## 15.10.2024
+
+- **Topic:** Initial Plan Feedback Meeting
+- **Summary:** Feedback session with Oumout Chousein Oglou on the initial plan and business model canvas.
+- **Location:** Zoom
+- **Time:** 22:30 – 23:30
