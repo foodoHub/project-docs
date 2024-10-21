@@ -31,3 +31,10 @@
 - **Summary:** Feedback session with Oumout Chousein Oglou on the initial plan and business model canvas.
 - **Location:** Zoom
 - **Time:** 22:30 – 23:30
+
+## 21.10.2024
+
+- **Topic:** Work on Initial Plan V2 Final Submission and Start on SRS V1 Submission
+- **Summary:** Finalize the submission of Initial Plan V2 and begin work on the SRS V1 submission.
+- **Location:** C Building
+- **Time:** 20:00
