@@ -36,3 +36,5 @@
 
 - **Topic:** Work on Initial Plan V2 Final Submission and Start on SRS V1 Submission
 - **Summary:** Finalize the submission of Initial Plan V2 and begin work on the SRS V1 submission.
+- **Location:** C Building
+- **Time:** 20:00 – 23:00
