@@ -38,3 +38,9 @@
 - **Summary:** Finalize the submission of Initial Plan V2 and begin work on the SRS V1 submission.
 - **Location:** C Building
 - **Time:** 20:00 – 23:00
+
+## 📅 25.10.2024
+
+- **Topic:** Work on Initial Plan V2 and Migrate it to Initial Plan Resubmission Template
+- **Summary:** Continue working on Initial Plan V2 and migrate it to the Initial Plan Resubmission Template (last update: 23/10/2024).
+- **Time:** 18:30 –
