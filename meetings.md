@@ -43,4 +43,5 @@
 
 - **Topic:** Work on Initial Plan V2 and Migrate it to Initial Plan Resubmission Template
 - **Summary:** Continue working on Initial Plan V2 and migrate it to the Initial Plan Resubmission Template (last update: 23/10/2024).
+- **Location:** C Building
 - **Time:** 18:30 –
