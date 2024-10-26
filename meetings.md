@@ -49,6 +49,6 @@
 ## 📅 26.10.2024
 
 - **Topic:** Initial Plan V2 and SRS
-- **Summary:**
+- **Summary:** Continue refining Initial Plan V2 and start working on the Software Requirements Specification (SRS).
 - **Location:** C Building
-- **Time:** 17:00 –
+- **Time:** 17:00 –24.00
