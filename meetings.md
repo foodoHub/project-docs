@@ -64,7 +64,5 @@
 
 - **Topic:** Work on SRS
 - **Summary:** Continue working on the Software Requirements Specification (SRS).
-- **Location:** Dorm 82
-- **Time:** 21:00 – 24:00
-
-
+- **Location:** Dorm 82 & A Building
+- **Time:** 21:00 – 02:00
