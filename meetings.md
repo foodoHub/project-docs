@@ -60,3 +60,11 @@
 - **Location:** Dorm 82
 - **Time:** 20:30 – 24:00
 
+## 📅 02.11.2024
+
+- **Topic:** Work on SRS
+- **Summary:** Continue working on the Software Requirements Specification (SRS).
+- **Location:** Dorm 82
+- **Time:** 21:00 – 24:00
+
+
