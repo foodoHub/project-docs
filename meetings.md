@@ -73,3 +73,10 @@
 - **Summary:** Continue working on the Software Requirements Specification (SRS).
 - **Location:** C Building Study Room
 - **Time:** 20:45 – 24:00
+
+## 📅 08.11.2024
+
+- **Topic:** Work on SRS
+- **Summary:** Continue working on the Software Requirements Specification (SRS).
+- **Location:** Dorm 82 Floor 3 Kitchen
+- **Time:** 19:30 – 24:00
