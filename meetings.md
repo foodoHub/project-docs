@@ -79,4 +79,5 @@
 - **Topic:** Work on SRS
 - **Summary:** Continue working on the Software Requirements Specification (SRS).
 - **Location:** Dorm 82 Floor 3 Kitchen
-- **Time:** 19:30 – 24:00
+- **Time:** 19:30 – ALL NIGHTER Till the Submission.
+
