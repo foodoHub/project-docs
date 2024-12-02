@@ -81,3 +81,11 @@
 - **Location:** Dorm 82 Floor 3 Kitchen
 - **Time:** 19:30 – ALL NIGHTER Till the Submission.
 
+- **Time:** 19:30 – ALL NIGHTER Till the Submission.
+
+## 📅 02.12.2024
+
+- **Topic:** Start working on mobile development, thoughts on SPMP and division of labour
+- **Summary:** Discuss the initial steps for mobile development, share thoughts on the Software Project Management Plan (SPMP), and divide the tasks among team members.
+- **Location:** Zoom
+- **Time:** 22:45 – 23:15
