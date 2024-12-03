@@ -89,3 +89,11 @@
 - **Summary:** Discuss the initial steps for mobile development, share thoughts on the Software Project Management Plan (SPMP), and divide the tasks among team members.
 - **Location:** Zoom
 - **Time:** 22:45 – 23:15
+
+## 📅 03.12.2024
+
+- **Topic:** Finalize SRS
+- **Summary:** Finalize the Software Requirements Specification (SRS).
+- **Participants:** Cemal, Batuhan, Baturalp 
+- **Location:** Dorm 82 Floor 3
+- **Time:** 20:00 – 01:00
