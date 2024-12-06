@@ -97,3 +97,17 @@
 - **Participants:** Cemal, Batuhan, Baturalp 
 - **Location:** Dorm 82 Floor 3
 - **Time:** 20:00 – 01:00
+
+## 📅 05.12.2024
+
+- **Topic:** Work on SPMP
+- **Summary:** Continue working on the Software Project Management Plan (SPMP).
+- **Location:** FA Building
+- **Time:** 18:00 – 02:00
+
+## 📅 06.12.2024
+
+- **Topic:** Work on SPMP
+- **Summary:** Continue working on the Software Project Management Plan (SPMP).
+- **Location:** FA Building
+- **Time:** 17:00 – 00:00
