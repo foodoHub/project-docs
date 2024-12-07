@@ -111,3 +111,10 @@
 - **Summary:** Continue working on the Software Project Management Plan (SPMP).
 - **Location:** FA Building
 - **Time:** 17:00 – 00:00
+
+## 📅 07.12.2024
+
+- **Topic:** Work on SPMP
+- **Summary:** Continue working on the Software Project Management Plan (SPMP).
+- **Location:** Dorm 82 Floor 3
+- **Time:** 19:00 – 05:00
