@@ -118,3 +118,10 @@
 - **Summary:** Continue working on the Software Project Management Plan (SPMP).
 - **Location:** Dorm 82 Floor 3
 - **Time:** 19:00 – 05:00
+
+## 📅 17.12.2024
+
+- **Topic:** Work on SPMP V2, SDD, and First Increment
+- **Summary:** Continue working on the Software Project Management Plan (SPMP) V2, Software Design Document (SDD), and the first increment.
+- **Location:** C Building
+- **Time:** 17:00 – 24:00
