@@ -16,7 +16,7 @@ def validateInput(email, password):
 
 
 def authenticateUser(email, password):
-    Clerk.authentice(email, password)
+    ClerkSDK.authentice(email, password)
 
 
 def storeToken(token):
