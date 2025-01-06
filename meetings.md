@@ -130,5 +130,12 @@
 
 - **Topic:** Work on SDD and First Increment
 - **Summary:** Continue working on the Software Design Document (SDD) and the first increment.
-- **Location:** C Building
-- **Time:** 14:00 – 02:00
+- **Location:** A Building
+- **Time:** 14:00 – 04:00
+
+## 📅 28.12.2024
+
+- **Topic:** Work on SDD and First Increment
+- **Summary:** Continue working on the Software Design Document (SDD) and the first increment.
+- **Location:** Dorm 82 Floor 3
+- **Time:** 17:00 – 04:00
