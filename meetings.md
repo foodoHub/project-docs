@@ -125,3 +125,10 @@
 - **Summary:** Continue working on the Software Project Management Plan (SPMP) V2, Software Design Document (SDD), and the first increment.
 - **Location:** C Building
 - **Time:** 17:00 – 24:00
+
+## 📅 22.12.2024 - 23.12.2024
+
+- **Topic:** Work on SDD and First Increment
+- **Summary:** Continue working on the Software Design Document (SDD) and the first increment.
+- **Location:** C Building
+- **Time:** 14:00 – 02:00
