@@ -152,4 +152,4 @@
 - **Topic:** Work on SDD and First Increment
 - **Summary:** Continue working on the Software Design Document (SDD) and the first increment.
 - **Location:** C Building
-- **Time:** 21:00 – 03:00
+- **Time:** 21:00 – 03  :00
